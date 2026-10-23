@@ -49,9 +49,9 @@ Aquí dominamos la creación de métodos, el paso de parámetros, los tipos de r
 
 ## ♠️ El expediente · Sobre esta práctica
 
-Este repositorio reúne los ejercicios de la **APE: Práctica Evaluativa — Clase Producto y Competencia Final**[cite: 1]. Cada ejercicio está presentado en un PDF independiente con su enunciado y solución en Java, e incluye un método `main` para probar su funcionamiento directamente[cite: 1].
+Este repositorio reúne los ejercicios de la **APE: Práctica Evaluativa — Clase Producto y Competencia Final**. Cada ejercicio está presentado en un PDF independiente con su enunciado y solución en Java, e incluye un método `main` para probar su funcionamiento directamente.
 
-Fortalecemos los fundamentos de programación orientada a objetos mediante ejercicios de métodos, parámetros, tipos de retorno, validaciones e instanciación[cite: 1].
+Fortalecemos los fundamentos de programación orientada a objetos mediante ejercicios de métodos, parámetros, tipos de retorno, validaciones e instanciación.
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=900&amp;pause=380&amp;color=E9D5FF&amp;background=0A0A0A&amp;center=false&amp;vCenter=false&amp;width=560&amp;height=161&amp;multiline=true&amp;lines=%C2%A0%C2%A0%3E+INICIANDO+CASINO+DE+GAMBITO+v3.0+...+%5B+OK+%5D;%C2%A0%C2%A0%3E+CARGANDO+APE%3A+CLASE+PRODUCTO+......+%5B+OK+%5D;%C2%A0%C2%A0%3E+REPARTIENDO+8+EJERCICIOS+JAVA+...+%5B+OK+%5D;%C2%A0%C2%A0%3E+VERIFICANDO+INSTANCIAS+NEW+.......+%5B+OK+%5D;%C2%A0%C2%A0%3E+ASIGNANDO+ROLES+A+LOS+5+AGENTES+.....+%5B+OK+%5D;%C2%A0%C2%A0%3E+ESTADO%3A+LISTO+PARA+APROBAR+........+%5B+OK+%5D;%C2%A0%C2%A0%3E+APUESTA+MAXIMA%3A+APRENDER+DE+VERDAD+%C2%B7+EN+CURSO+%E2%96%88;%C2%A0;%C2%A0" alt="Terminal de Gambito">
@@ -59,17 +59,17 @@ Fortalecemos los fundamentos de programación orientada a objetos mediante ejerc
 
 ### 🎯 Objetivo de la misión
 
-- **Crear métodos precisos** que reciban datos, procesen información y devuelvan resultados exactos con `return`[cite: 1, 3].
-- **Manejar la memoria y objetos** comprendiendo la instanciación con `new` y el paso de parámetros por valor[cite: 1, 3].
-- **Validar condiciones lógicas** utilizando tipos de datos primitivos y referencias como `String`, `int`, `double` y `boolean`[cite: 3].
-- **Asegurar la calidad del software** universitario mediante pruebas unitarias en consola[cite: 4].
+- **Crear métodos precisos** que reciban datos, procesen información y devuelvan resultados exactos con `return`.
+- **Manejar la memoria y objetos** comprendiendo la instanciación con `new` y el paso de parámetros por valor.
+- **Validar condiciones lógicas** utilizando tipos de datos primitivos y referencias como `String`, `int`, `double` y `boolean`.
+- **Asegurar la calidad del software** universitario mediante pruebas unitarias en consola.
 
 > [!TIP]
 > **Lema de la mesa:** «En el código, como en las cartas, el azar no existe: todo es lógica y estrategia».
 
 ## 🃏 La baraja · Integrantes y roles
 
-Todo gran plan de estudio requiere un equipo sincronizado. Aquí cada agente maneja una carta clave dentro de la estructura de software[cite: 6].
+Todo gran plan de estudio requiere un equipo sincronizado. Aquí cada agente maneja una carta clave dentro de la estructura de software.
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;duration=2400&amp;pause=1300&amp;color=E9D5FF&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=860&amp;height=52&amp;lines=Agente+01+%E2%80%BA+Detective+del+Codigo+Oscuro+%E2%80%BA+Dereck+Shair;Agente+02+%E2%80%BA+Arquitecto+de+la+Baticueva+Digital+%E2%80%BA+Brishy+Anahy;Agente+03+%E2%80%BA+Caballero+del+Backend+%E2%80%BA+Fher+Dorian;Agente+04+%E2%80%BA+Guardi%C3%A1n+Nocturno+del+Testing+%E2%80%BA+Antony+Sebastian;Agente+05+%E2%80%BA+Or%C3%A1culo+del+Conocimiento+%E2%80%BA+Karina+Paola" width="100%" alt="Presentación de la baraja de agentes">
@@ -83,39 +83,39 @@ Todo gran plan de estudio requiere un equipo sincronizado. Aquí cada agente man
 | **4** | **Casillas Ochoa Antony Sebastian** | **Guardián Nocturno del Testing · Inspeccionar · Probar** | Comprobar lo aprendido con simulacros, preguntas de práctica y autoevaluaciones antes de que llegue el examen real. |
 | **5** | **Sanchez Bastidas Karina Paola** | **Oráculo del Conocimiento · Archivar · Documentar** | Registrar avances, resúmenes y lecciones aprendidas para que el plan mejore cada semana. |
 
-**La mejor jugada de la mesa sigue siendo trabajar en equipo.**[cite: 6]
+**La mejor jugada de la mesa sigue siendo trabajar en equipo.**
 
 ## 🎲 Mesa de apuestas · Ejercicios
 
-Los 8 retos de la práctica evaluativa diseñados para dominar métodos y objetos en Java[cite: 2]:
+Los 8 retos de la práctica evaluativa diseñados para dominar métodos y objetos en Java:
 
 | N.º | Ejercicio | ¿Qué se practica? |
 | :---: | :--- | :--- |
-| **01** | 📐 **Tipos de retorno** | Corregir un método que calcula el área y devolver el resultado con `double` y `return`[cite: 2]. |
-| **02** | 🃏 **Bienvenida** | Crear un método `void` que reciba un nombre y una edad e imprima un saludo[cite: 2]. |
-| **03** | 🎴 **Parámetros y argumentos** | Diferenciar los parámetros `x`, `y` de los argumentos `4.0`, `5.5`[cite: 2]. |
-| **04** | 📦 **Paso por valor** | Comprobar por qué modificar un parámetro `int` no cambia la variable original[cite: 2]. |
-| **05** | 📝 **Calcular promedio** | Recibir tres notas y retornar su promedio[cite: 2]. |
-| **06** | ✅ **Validar edad** | Usar condiciones y un retorno `boolean` para validar edades entre 0 y 120[cite: 2]. |
-| **07** | 🛒 **Clase Producto** | Completar los atributos y el método que calcula el valor del inventario[cite: 2]. |
-| **08** | 🚀 **Instanciación y main** | Crear un objeto, asignar atributos, invocar un método y mostrar su resultado[cite: 2]. |
+| **01** | 📐 **Tipos de retorno** | Corregir un método que calcula el área y devolver el resultado con `double` y `return`. |
+| **02** | 🃏 **Bienvenida** | Crear un método `void` que reciba un nombre y una edad e imprima un saludo. |
+| **03** | 🎴 **Parámetros y argumentos** | Diferenciar los parámetros `x`, `y` de los argumentos `4.0`, `5.5`. |
+| **04** | 📦 **Paso por valor** | Comprobar por qué modificar un parámetro `int` no cambia la variable original. |
+| **05** | 📝 **Calcular promedio** | Recibir tres notas y retornar su promedio. |
+| **06** | ✅ **Validar edad** | Usar condiciones y un retorno `boolean` para validar edades entre 0 y 120. |
+| **07** | 🛒 **Clase Producto** | Completar los atributos y el método que calcula el valor del inventario. |
+| **08** | 🚀 **Instanciación y main** | Crear un objeto, asignar atributos, invocar un método y mostrar su resultado. |
 
 > [!IMPORTANT]
 > **Regla de oro de Gambito:** ningún método se da por bueno si no compila a la primera y pasa todas las pruebas en consola.
 
 ## ♣️ Conceptos aplicados
 
-Las reglas del juego que dominamos en este repositorio[cite: 3]:
+Las reglas del juego que dominamos en este repositorio:
 
-- **Clases y objetos:** definir una estructura y crear instancias con `new`[cite: 3].
-- **Atributos:** almacenar información de un objeto[cite: 3].
-- **Métodos:** organizar acciones y cálculos[cite: 3].
-- **Parámetros y argumentos:** recibir y enviar información[cite: 3].
-- `void`: declarar métodos que no devuelven un valor[cite: 3].
-- `return`: finalizar un método y, cuando corresponde, devolver un resultado[cite: 3].
-- **Tipos de datos:** trabajar con `String`, `int`, `double` y `boolean`[cite: 3].
-- **Condicionales:** comprobar si los datos cumplen una condición[cite: 3].
-- **Paso por valor:** entender que un parámetro recibe una copia del valor enviado[cite: 3].
+- **Clases y objetos:** definir una estructura y crear instancias con `new`.
+- **Atributos:** almacenar información de un objeto.
+- **Métodos:** organizar acciones y cálculos.
+- **Parámetros y argumentos:** recibir y enviar información.
+- `void`: declarar métodos que no devuelven un valor.
+- `return`: finalizar un método y, cuando corresponde, devolver un resultado.
+- **Tipos de datos:** trabajar con `String`, `int`, `double` y `boolean`.
+- **Condicionales:** comprobar si los datos cumplen una condición.
+- **Paso por valor:** entender que un parámetro recibe una copia del valor enviado.
 
 ## ♥️ Pruebas en la mesa · Resultados esperados
 
@@ -123,31 +123,31 @@ Verifica tus jugadas ejecutando los códigos con los siguientes datos de prueba[
 
 | Ejercicio | Datos de prueba | Resultado esperado |
 | :--- | :--- | :--- |
-| **Área** | Base `4.5` y altura `3.0` | `13.5`[cite: 5] |
-| **Multiplicación** | `4.0` y `5.5` | `22.0`[cite: 5] |
-| **Paso por valor** | `numero = 10` | La variable original conserva el valor `10`[cite: 5]. |
-| **Promedio** | Notas `8`, `9` y `10` | `9.0`[cite: 5] |
-| **Validación de edad** | Edad `19` | `true`[cite: 5] |
-| **Validación de edad** | Edad `-1` o `121` | Imprime `"Edad inválida"` y devuelve `false`[cite: 5]. |
-| **Inventario** | Stock `10` y precio unitario `25.5` | `255.0`[cite: 5] |
+| **Área** | Base `4.5` y altura `3.0` | `13.5` |
+| **Multiplicación** | `4.0` y `5.5` | `22.0` |
+| **Paso por valor** | `numero = 10` | La variable original conserva el valor `10`. |
+| **Promedio** | Notas `8`, `9` y `10` | `9.0` |
+| **Validación de edad** | Edad `19` | `true` |
+| **Validación de edad** | Edad `-1` o `121` | Imprime `"Edad inválida"` y devuelve `false`. |
+| **Inventario** | Stock `10` y precio unitario `25.5` | `255.0` |
 
 > *Universidad Técnica de Ambato · Software*[cite: 5]
 > 
-> ⭐ **La práctica consiste en entender el código, modificarlo y comprobar qué sucede.**[cite: 5]
+> ⭐ **La práctica consiste en entender el código, modificarlo y comprobar qué sucede.**
 
 ## ♦️ Cómo probar los códigos
 
-Sigue esta baraja de instrucciones para ejecutar cada reto con éxito[cite: 4]:
+Sigue esta baraja de instrucciones para ejecutar cada reto con éxito:
 
-1. Abre el PDF del ejercicio que deseas practicar[cite: 4].
-2. Crea un proyecto Java en tu entorno de desarrollo[cite: 4].
-3. Crea el archivo con el mismo nombre de la clase pública. Por ejemplo: `Bienvenida.java`[cite: 4].
-4. Copia el código de la sección **Código Java · Solución**[cite: 4].
-5. Ejecuta el método `main` y revisa el resultado en la consola[cite: 4].
-6. Cambia los valores de prueba para observar cómo responde el programa[cite: 4].
+1. Abre el PDF del ejercicio que deseas practicar.
+2. Crea un proyecto Java en tu entorno de desarrollo.
+3. Crea el archivo con el mismo nombre de la clase pública. Por ejemplo: `Bienvenida.java`.
+4. Copia el código de la sección **Código Java · Solución**.
+5. Ejecuta el método `main` y revisa el resultado en la consola.
+6. Cambia los valores de prueba para observar cómo responde el programa.
 
 > [!IMPORTANT]
-> **Importante:** prueba cada ejercicio por separado. Algunos utilizan nombres de clase repetidos, como `Calculadora` y `Producto`[cite: 4].
+> **Importante:** prueba cada ejercicio por separado. Algunos utilizan nombres de clase repetidos, como `Calculadora` y `Producto`.
 
 ---
 
