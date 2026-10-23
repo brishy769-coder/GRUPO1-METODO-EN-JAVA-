@@ -1,97 +1,72 @@
-<div align="center">
+# 🃏 GAMBIT'S CODE LAB: JAVA IN PRACTICE ♠️
+### *Carga tu código de energía kinética | Métodos, Objetos & Gambitos Orientados a Objetos*
 
-<img src="assets/banner.svg" alt="Gambito Java · Métodos y objetos" width="100%"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIxb3U0d2p4ZnhmYnVraDF4ejFubjRxZnY0Mnl3OWRseWtzdWprMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1T5M0qT6ZJlu/giphy.gif" alt="Gambito arrojando cartas kinéticas" width="480">
+</p>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=%E2%99%9F+Apertura%3A+m%C3%A9todos+y+par%C3%A1metros;%E2%99%9E+Medio+juego%3A+return+y+paso+por+valor;%E2%99%9B+Final%3A+clase+Producto+e+instanciaci%C3%B3n" alt="Jugadas animadas"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-EDICIÓN_GAMBITO-ff007f?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Gambit Edition">
+  <img src="https://img.shields.io/badge/UNIVERSIDAD-UTA_SOFTWARE-8B0000?style=for-the-badge" alt="UTA Software">
+  <img src="https://img.shields.io/badge/STATUS-CHARGED_%26_READY-8A2BE2?style=for-the-badge" alt="Charged and Ready">
+</p>
 
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=D4AF37)
-![POO](https://img.shields.io/badge/POO-Métodos_y_objetos-B58863?style=for-the-badge)
-![Ejercicios](https://img.shields.io/badge/Jugadas-8-D4AF37?style=for-the-badge&labelColor=1a1a1a)
-![UTA](https://img.shields.io/badge/UTA-Software-F0D9B5?style=for-the-badge&labelColor=1a1a1a)
+---
 
-> *Ocho jugadas para practicar cómo crear métodos, enviar datos, devolver resultados y trabajar con objetos en Java.*
+## 💥 ⚡ Sobre la Jugada (APE: Práctica Evaluativa)
 
-</div>
+> *"Pick a card, any card... pero asegúrate de que compile, mon ami."* — **Remy LeBeau**
 
-<img src="assets/divider.svg" width="100%"/>
+Bienvenidos a la arena de entrenamiento. Este repositorio reúne la **Práctica Evaluativa (APE) — Clase Producto y Competencia Final**, rediseñada con la precisión de un maestro del truco de cartas. 
 
-## ♟️ La apertura · Sobre esta práctica
+Cada ejercicio se encuentra en un PDF independiente cargado de **enunciado y solución Java**, listo para que lo detones con su respectivo método `main`.
 
-Este repositorio reúne los ejercicios de la **APE: Práctica Evaluativa — Clase Producto y Competencia Final**.
+---
 
-Cada ejercicio está presentado en un PDF independiente con su **enunciado y solución en Java**. Los códigos incluyen un método `main` para probar su funcionamiento.
+## 🎯 El Objetivo Supremo
 
-## 🎯 El plan de juego · Objetivo
+Dominar la **Programación Orientada a Objetos** cargando variables, perfeccionando tipos de retorno, asegurando validaciones impenetrables e instanciando objetos con el estilo y la potencia de una explosión kinética.
 
-> **♛ Fortalecer los fundamentos de programación orientada a objetos** mediante ejercicios de métodos, parámetros, tipos de retorno, validaciones e instanciación.
+---
 
-<img src="assets/divider.svg" width="100%"/>
+## 🔮 🂠 La Baraja de Ejercicios (The Kinetic Deck)
 
-## ♞ Las 8 jugadas · Ejercicios
+| N.º | 🃏 Ejercicio | ⚡ ¿Qué energía kinética se practica? |
+| :---: | :--- | :--- |
+| **01** | 📐 **Tipos de Retorno** | Corregir el método de cálculo de área y retornar el resultado cargado con `double` y `return`. |
+| **02** | 👋 **Bienvenida Cajun** | Invocar un método `void` que reciba nombre y edad para lanzar un saludo con clase. |
+| **03** | 🔢 **Parámetros vs Argumentos** | Distinguir los parámetros de la baraja (`x`, `y`) de los argumentos jugados (`4.0`, `5.5`). |
+| **04** | 📦 **Paso por Valor** | Demostrar por qué alterar una copia `int` no cambia la carta original de la mano. |
+| **05** | 📝 **Promedio Explosivo** | Recibir tres notas en mesa y devolver el promedio exacto sin perder decimales. |
+| **06** | ✅ **Escudo de Validación** | Control de fronteras con `boolean`: validar si la edad está dentro del rango `[0 - 120]`. |
+| **07** | 🛒 **Arsenal Producto** | Atributos de inventario + cálculo total del botín en la clase `Producto`. |
+| **08** | 🚀 **El As bajo la Manga** | Instanciar objetos con `new`, asignar atributos, invocar métodos y desplegar el resultado. |
 
-| Jugada | Pieza | Ejercicio | ¿Qué se practica? |
-| :---: | :---: | --- | --- |
-| **01** | ♙ | **Tipos de retorno** | Corregir un método que calcula el área y devolver el resultado con `double` y `return`. |
-| **02** | ♟ | **Bienvenida** | Crear un método `void` que reciba un nombre y una edad e imprima un saludo. |
-| **03** | ♘ | **Parámetros y argumentos** | Diferenciar los parámetros `x`, `y` de los argumentos `4.0`, `5.5`. |
-| **04** | ♞ | **Paso por valor** | Comprobar por qué modificar un parámetro `int` no cambia la variable original. |
-| **05** | ♗ | **Calcular promedio** | Recibir tres notas y retornar su promedio. |
-| **06** | ♝ | **Validar edad** | Usar condiciones y un retorno `boolean` para validar edades entre 0 y 120. |
-| **07** | ♜ | **Clase Producto** | Completar los atributos y el método que calcula el valor del inventario. |
-| **08** | ♛ | **Instanciación y main** | Crear un objeto, asignar atributos, invocar un método y mostrar su resultado. |
+---
 
-<img src="assets/divider.svg" width="100%"/>
+## 🛠️ ⚡ Artefactos & Conceptos Aplicados
 
-## 🏰 Piezas en el tablero · Conceptos aplicados
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKL3mB6yL37B63E/giphy.gif" alt="Gambito Kinetic Power" width="300">
+</p>
 
-| Pieza | Concepto | En pocas palabras |
-| :---: | --- | --- |
-| ♚ | **Clases y objetos** | Definir una estructura y crear instancias con `new`. |
-| ♛ | **Atributos** | Almacenar información de un objeto. |
-| ♜ | **Métodos** | Organizar acciones y cálculos. |
-| ♝ | **Parámetros y argumentos** | Recibir y enviar información. |
-| ♞ | **`void`** | Declarar métodos que no devuelven un valor. |
-| ♞ | **`return`** | Finalizar un método y, cuando corresponde, devolver un resultado. |
-| ♟ | **Tipos de datos** | Trabajar con `String`, `int`, `double` y `boolean`. |
-| ♟ | **Condicionales** | Comprobar si los datos cumplen una condición. |
-| ♟ | **Paso por valor** | Un parámetro recibe una copia del valor enviado. |
+- **🃏 Clases y Objetos:** La plantilla (el mazo) y sus instancias reales (`new` carta arrojada).
+- **💎 Atributos:** Propiedades que identifican y definen el estado de cada objeto.
+- **⚡ Métodos:** Las habilidades y trucos de combate que ejecutan lógica.
+- **🎯 Parámetros y Argumentos:** Los datos que lanzas a la función y cómo los recibe esta.
+- **⛔ `void`:** Métodos que ejecutan una acción espectacular pero no devuelven nada a la mano.
+- **💥 `return`:** El detonador que finaliza el método y entrega la carta con el resultado.
+- **🔢 Tipos de Datos:** Manejo de precisión con `String`, `int`, `double` y `boolean`.
+- **🛡️ Condicionales:** El radar para filtrar jugadas válidas de trampas en tiempo de ejecución.
+- **🔄 Paso por Valor:** Entender que Java siempre trabaja con duplicados al pasar primitivos.
 
-<img src="assets/divider.svg" width="100%"/>
+---
 
-## ⏱️ Mueve tus piezas · Cómo probar los códigos
+## 💻 🔮 Cómo Detonar los Códigos en Consola
 
-1. ♙ Abre el PDF del ejercicio que deseas practicar.
-2. ♘ Crea un proyecto Java en tu entorno de desarrollo.
-3. ♗ Crea el archivo con el mismo nombre de la clase pública. Por ejemplo: `Bienvenida.java`.
-4. ♖ Copia el código de la sección **Código Java · Solución**.
-5. ♕ Ejecuta el método `main` y revisa el resultado en la consola.
-6. ♔ Cambia los valores de prueba para observar cómo responde el programa.
-
-> [!WARNING]
-> **¡Jaque!** Prueba cada ejercicio por separado. Algunos utilizan nombres de clase repetidos, como `Calculadora` y `Producto`.
-
-<img src="assets/divider.svg" width="100%"/>
-
-## 🧪 Partidas de prueba · Resultados esperados
-
-| Partida | Datos de prueba | Resultado esperado |
-| --- | --- | --- |
-| ♙ Área | Base `4.5` y altura `3.0` | `13.5` |
-| ♘ Multiplicación | `4.0` y `5.5` | `22.0` |
-| ♞ Paso por valor | `numero = 10` | La variable original conserva el valor `10`. |
-| ♗ Promedio | Notas `8`, `9` y `10` | `9.0` |
-| ♝ Validación de edad | Edad `19` | `true` |
-| ♝ Validación de edad | Edad `-1` o `121` | Imprime `"Edad inválida"` y devuelve `false`. |
-| ♜ Inventario | Stock `10` y precio unitario `25.5` | `255.0` |
-
-<br/>
-
-<div align="center">
-
-<img src="assets/jaque-mate.svg" alt="¡Jaque mate!" width="100%"/>
-
-**♔ Universidad Técnica de Ambato · Software ♚**
-
-⭐ *La práctica consiste en entender el código, modificarlo y comprobar qué sucede.*
-
-</div>
+```bash
+# 1. Abre el PDF del ejercicio que vas a dominar.
+# 2. Crea un proyecto Java en tu IDE preferido (VSCode, IntelliJ, NetBeans).
+# 3. Nombra tu archivo exacto como la clase pública (Ej: Bienvenida.java).
+# 4. Copia el snippet desde la sección: Código Java · Solución.
+# 5. Ejecuta el método main, carga la energía y revisa la salida en consola.
